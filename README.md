@@ -1,5 +1,7 @@
 # boardsearch-chrome
 Simple Chrome extension for finding 4chan boards by their name
+
+
 ![Repo Icon](images/icon128.png)
 
 
