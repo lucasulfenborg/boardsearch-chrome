@@ -1,13 +1,8 @@
 # boardsearch-chrome
- Simple Chrome extension for finding 4chan boards by their name
+Simple Chrome extension for finding 4chan boards by their name
 
-Chrome extension for searching 4chan boards.
 
-Features
-Quickly search across different 4chan boards.
-Simple and user-friendly interface.
-Integrated directly into Chrome's toolbar.
-Install
+# Install
 Follow these steps to install the "boardsearch-chrome" extension:
 
 1. Download the Extension
@@ -27,5 +22,6 @@ Usage
 Click the extension icon and type your search terms.
 Press Enter to perform a search across the boards.
 Results will open in a new tab.
-Contributing
+
+# Contributing
 Contributions are welcome! Please submit a pull request or open an issue for any bugs or feature requests.
