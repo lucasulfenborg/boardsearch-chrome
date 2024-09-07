@@ -8,6 +8,9 @@ Simple Chrome extension for finding 4chan boards by their name
 Since 4chan boards expire, making it so your booksmarks stops working, I've created this extension to quickly find the boards you're looking for.
 
 
+![Repo Icon](images/preview.png)
+
+
 # Install
 Follow these steps to install the "boardsearch-chrome" extension:
 
