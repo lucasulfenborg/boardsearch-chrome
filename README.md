@@ -5,7 +5,7 @@ Simple Chrome extension for finding 4chan boards by their name
 ![Repo Icon](images/icon128.png)
 
 
-Since 4chan boards expire, making it so your booksmarks stops working, I've created this extension to quickly find the boards you're looking for.
+Since 4chan boards expire, making it so your bookmarks stops working, I've created this extension to quickly find the boards you're looking for.
 
 
 ![Repo Icon](images/preview.png)
