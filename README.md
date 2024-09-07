@@ -1,7 +1,9 @@
-![Repo Icon](images/icon128.png)
-
 # boardsearch-chrome
 Simple Chrome extension for finding 4chan boards by their name
+![Repo Icon](images/icon128.png)
+
+
+Since 4chan boards expire, making it so your booksmarks stops working, I've created this extension to quickly find the boards you're looking for.
 
 
 # Install
