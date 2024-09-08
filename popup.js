@@ -3,6 +3,9 @@ var searchInput = document.getElementById('searchQuery');
 // auto focus
 searchInput.focus();
 
+
+
+
 searchInput.addEventListener('keypress', function(event) {
     //Search
     if (event.key === 'Enter') {

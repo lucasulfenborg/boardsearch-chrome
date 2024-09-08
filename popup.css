@@ -1,7 +1,11 @@
 body { 
     width: 200px; 
     font-family: Arial, sans-serif; 
-    color: aquamarine;
-
+    /*gradient color between a sandy beach (#FED7B0) and an ivory (#FFFFEE)*/
+    background: #FFFFEE;
 }
-input { width: 100%; padding: 5px; margin: 5px 0; }
+input { 
+    width: 95%;
+    padding: 2%;
+    margin: 5% 0; 
+}
